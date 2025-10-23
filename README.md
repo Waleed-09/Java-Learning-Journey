@@ -1,25 +1,74 @@
-This repository contains my complete Java Learning Journey — from Basics to Advanced Level.
-It includes all the programs and examples I wrote while mastering Core Java concepts step by step.
-Each folder covers a specific topic, making it easy to follow and understand Java in a structured way.
+# Java Learning Journey — From Basics to Advanced
 
-📚 Topics Covered
+Welcome to my **Java Learning Journey Repository!**  
+This repo contains all the programs and practice files that I wrote while learning **Java from basic to advanced level.**  
+I’ve added **Urdu + English comments** in the code to make it easier to understand and revise later 💬  
 
-🧩 Basics: Variables, Data Types, Operators, Conditional Statements, Loops
+---
 
-🧠 OOP Concepts: Classes, Objects, Constructors, Inheritance, Polymorphism, Encapsulation, Abstraction
+## Topics Covered
 
-⚙️ Advanced Java: Exception Handling, File Handling, Packages, Interfaces, Inner Classes, Collections Framework
+### 🔹 Basics
+- Introduction to Java  
+- Variables, Data Types, and Operators  
+- Conditional Statements & Loops  
+- Input / Output in Java  
 
-💻 Practical Examples: Real-world mini programs & problem-solving exercises
+### 🔹 Object-Oriented Programming (OOP)
+- Classes and Objects  
+- Constructors (default, parameterized, overloaded)  
+- Inheritance & Method Overriding  
+- Polymorphism  
+- Encapsulation & Abstraction  
+- Static and Final keywords  
 
-🧰 Tools Used: IntelliJ IDEA / VS Code, JDK 17
+### 🔹 Advanced Java
+- Exception Handling  
+- File Handling  
+- Packages & Interfaces  
+- Inner Classes  
+- Collections Framework  
 
-🎯 Purpose
+---
 
-To document my learning progress in Java and help others understand the core to advanced concepts through clean, organized examples.
+## 💬 Language Notes
+> Kuch programs me **Urdu comments** likhe gaye hain taake concepts ko samajhne me asani ho.  
+> (Example: `// yeh program inheritance ka concept dikhata hai`)
 
-👨‍💻 Author
+---
 
-Muhammad Waleed Khan — Software Engineering Student at COMSATS University Islamabad (Abbottabad Campus)
+## 📂 Folder Structure
+Java-Learning-Journey/
+├── 01_Basics/
+├── 02_OOP_Concepts/
+├── 03_Main.java (OOP_Concepts)/
+└── README.md
 
-Passionate about writing clean code, learning new technologies, and building real-world projects.
+
+---
+
+## 🧰 Tools Used
+- **IntelliJ IDEA / VS Code**  
+- **JDK 17**  
+
+---
+
+## 🎯 Purpose
+This repository is created to:
+- Document my learning journey in Java  
+- Help other beginners understand Java concepts through simple examples  
+- Showcase my consistency and passion for programming on GitHub  
+
+---
+
+## 👨‍💻 Author
+**Muhammad Waleed Khan**  
+*Software Engineering Student at COMSATS University Islamabad Abbottabad Campus *  
+
+> “Code with logic, build with structure.” ☕  
+> 📩 Email: [waleedali36558@gmail.com](mailto:waleedali36559@gmail.com)
+
+---
+
+⭐ **If you like this repository, don’t forget to give it a star!**  
+That motivates me to keep learning and sharing more 😊
