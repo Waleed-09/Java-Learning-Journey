@@ -66,7 +66,7 @@ This repository is created to:
 *Software Engineering Student at COMSATS University Islamabad Abbottabad Campus *  
 
 > “Code with logic, build with structure.” ☕  
-> 📩 Email: [waleedali36558@gmail.com](mailto:waleedali36559@gmail.com)
+> 📩 Email: [waleedali36559@gmail.com](mailto:waleedali36559@gmail.com)
 
 ---
 
